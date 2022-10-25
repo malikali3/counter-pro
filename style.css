@@ -1,0 +1,20 @@
+body{
+    background-color: yellowgreen;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.container{
+    margin-left: 50px;
+}
+
+#val{
+    color: blueviolet;
+    font-size: 4rem;
+}
+
+#inc, #dec, #reset{
+    border-radius: 30px;
+    font-size: 50px;
+    margin-left: 20px
+}
